@@ -1,1 +1,12 @@
+After Installing both libraries mentioned in Readme section now you have to import necessary python libraries and reading the image that we will be using in this project 
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+#STEPS : 
+
+1. import cv2
+2. import cvlib as cv
+3. import sys
+4. import numpy as np
+5. from numpy.lib.type_check import imag
+6. image = cv2.imread("aakriti.png")
